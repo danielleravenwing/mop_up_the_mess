@@ -1,3 +1,5 @@
+# Mop Us the Mess by Raven Ironwing and Joshua D.
+
 import pygame as pg #lets you rename pygame
 import random
 from settings import * #imports everything without settings. to call things
