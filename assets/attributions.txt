@@ -1,0 +1,30 @@
+music:
+    https://opengameart.org/content/discovering-new-frontiers-low-quality
+    https://opengameart.org/content/the-organ-2
+    https://opengameart.org/content/16-bit-rpg-title-screen
+    https://opengameart.org/content/side-scroller-music-1
+    https://opengameart.org/content/gradius-ode
+    https://opengameart.org/content/rpg-towntravel-or-credits-song
+    https://opengameart.org/content/end-credits-theme
+    https://opengameart.org/content/lose-music-2
+    https://opengameart.org/content/boss-fight-bounce
+    
+sound effects:
+    https://opengameart.org/content/8-bit-sound-fx
+    https://opengameart.org/content/8-wet-squish-slurp-impacts
+    https://opengameart.org/content/fly-swatter-squish-sound
+    http://soundbible.com/1761-Glass-Breaking.html
+    
+sprites:
+    princess and slimes adapted from:
+        https://opengameart.org/content/bushly-and-princess-sera
+    skeleton princess adapted from:
+        https://opengameart.org/content/tiny-skelly-rpg-enemies-rework
+    bomb adapted from:
+        https://opengameart.org/content/bomb-sprite
+    beakers adapted from:
+        https://opengameart.org/content/potion-0
+    explosion animation found at:
+        http://kidscancode.org/blog/2016/09/pygame_shmup_part_10/
+    
+    
